@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scientific Paper &#8211; Jeff Untalan</title>
+	<atom:link href="/category/scientific-paper/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 16 Aug 2021 06:11:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/08/cropped-output-onlinepngtools1-32x32.png</url>
+	<title>Scientific Paper &#8211; Jeff Untalan</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Application of Microbial Identification Techniques in the Species Determination of an Unknown Bacterium</title>
+		<link>/application-of-microbial-identification-techniques-in-the-species-determination-of-an-unknown-bacterium/</link>
+		
+		<dc:creator><![CDATA[jeffuntalan]]></dc:creator>
+		<pubDate>Mon, 16 Aug 2021 06:11:48 +0000</pubDate>
+				<category><![CDATA[Scientific Paper]]></category>
+		<category><![CDATA[Undergraduate Paper]]></category>
+		<guid isPermaLink="false">/?p=171</guid>
+
+					<description><![CDATA[Jefferson A. Untalan1 1Institute of Biological Sciences, College of Arts and Sciences, University of the Philippines Los Baños, College, Laguna The identification of bacteria differs greatly than identifying the species of an animal. The microscopic nature of bacteria requires the use of microscopes and various tests to somehow make the invisible, visible. In this series [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Jefferson A. Untalan<sup>1</sup></strong></p>
+
+
+
+<p><sup>1</sup>Institute of Biological Sciences, College of Arts and Sciences, University of the Philippines Los Baños, College, Laguna</p>
+
+
+
+<p>The identification of bacteria differs greatly than identifying the species of an animal. The microscopic nature of bacteria requires the use of microscopes and various tests to somehow make the invisible, visible. In this series of experiments, an unknown bacterium was identified using gram staining, visual analysis and various metabolic tests. The organism was identified using the inspection of cultural characteristics, morphological features as well as tests that determine the presence of certain enzymes, the organism’s ability to degrade various organic and inorganic molecules. Upon initial inspection, the organism had a cream-colored colony on Nutrient Agar plates. Individual colonies were circular and convex while the margin was entire. The unknown organism was determined to be a non-motile coccus that formed grape-like clusters. Gram staining on the organism showed that it was gram positive. There was no observed capsule during Duguid’s, Maneval’s and Anthony’s methods. The organism was negative for the oxidase test, positive for the catalase test and was observed to be facultative anaerobic. The organism was determined to be fermentative in the Hugh and Liefson test, methyl red positive and positive for VP (Vogues Proskauer) and positive for gelatin hydrolysis. Growth factors also seemed to be a factor in its growth, as it grew well with growth factors. Through all the tests employed on the organism, the results of the tests as well as visual inspection of pointed its probable identity to <em>Staphylococcus aureus,</em> a gram positive coccus that causes a wide range of diseases from minor infections to lethal ones such as pneumonia.</p>
+
+
+
+<p>Keywords: microbiology, identification, bacteria</p>
+
+
+
+<p><strong>INTRODUCTION</strong></p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The need to identify a microorganism stems from the impact it has on the environment or on human life. Knowing the specific properties of a microorganism allows for its cultivation, control and study.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One of the most important of tests in identification is gram staining. The gram staining method was developed by Hans Christian Joachim Gram, when he was working in a Berlin morgue for the isolation of bacterial pneumonia. He noticed something that would be the cornerstone of future microbial identification techniques. Gram noted that some stains are taken up by the bacteria, while other bacteria do not. While his methods were admittedly crude and imperfect in initial form, years of study improved his technique into the form that we use today. Nowadays however, microbial identification is not solely dependent on how it will react to certain tests. The advent of Polymerase Chain Reaction (PCR) opened the doors for gene-based identification methods through its ability to amplify the otherwise miniscule amount of DNA available from bacteria. However, genetic approaches will not be covered in this study. The focus is instead on the tests and analysis involved in identifying bacteria through its morphology, and metabolism.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The unknown bacteria focused on in the experiment was assigned in accordance to the course requirement prescribed for the MCB 101 (Microbial Techniques) course. The organism was exposed to a set series of tests starting from morphological tests such as the gram stain, capsule staining methods and flagellar staining methods to metabolism-related tests such as the urease test, oxidase test and catalase test. It was noted that the sensitivity of some tests can be disrupted by some media. The test for acetoin for example, can have different results if the media used is O’Meara’s Fumarate Broth&nbsp;(Steel, 1965). Fortunately, no discrepancies in media and reagents used were present in any of the tests done.</p>
+
+
+
+<p><strong>Materials and Methods</strong></p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Observations are primarily done in 1000x magnification achieved by using an Oil Immersion Objective.</p>
+
+
+
+<p><em>Gram staining and Gregersen’s method</em></p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The gram staining procedure was done on 16-22h old cultures of the unknown streaked on NA plates.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gregersen’s method involved the use of 3% freshly prepared KOH drops on a glass slide. A loopful of the unknown was mixed onto the drops of KOH for about 5 minutes and observed for any signs of viscosity.</p>
+
+
+
+<p><em>Capsule staining</em></p>
+
+
+
+<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em>Capsule staining was done on unknown cultures grown on NAG (NA+2% glucose) and NAS (NA+2% sucrose) slants. Heat fixation is not done in capsule staining techniques to preserve any capsule that may have formed. Duguid’s method (negative staining), Maneval’s method, and Anthony’s method of capsule staining was done in each of the NAG and NAS samples.</p>
+
+
+
+<p><em>Flagellar staining</em></p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;The unknown bacteria were inoculated in NA and stored at 5 degrees centigrade below optimal for 24-48 hours to promote flagellar growth. The growth on the NA was then observed for motility using the hanging drop technique.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The observation of a motility band was also done using Motility medium (MM). A drop of the bacterial suspension from the previous NA slant was dropped on the surface of MM, a stab was also done on another MM. The media was then inoculated for two days and observed for the presence of a motility band.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modified Bailey’s method was used on the unknown bacterial samples. The slides were new, and were cleaned thoroughly to prevent the destruction of the flagella.</p>
+
+
+
+<p><em>Granular staining</em></p>
+
+
+
+<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em>The unknown was grown on N-limited Glucose Yeast Extract Agar (GYEA) for this part and was incubated for 24-48 hours.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Intracellular lipids were stained by heat fixing the unknown and flooding it with Sudan black. The excess was rinsed off and xylene was used to rinse the slide once more. Safranin was then added for about 10 seconds and the slide was washed with water.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staining for starch and glycogen granules involved the use of Lugol’s iodine mixed into the unknown on a clean glass slide.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Metachromatic granules were observed by dropping methylene blue on the heat-fixed unknown samples.</p>
+
+
+
+<p><em>Endospore staining</em></p>
+
+
+
+<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em>For endospore staining, the unknown bacteria were grown on an NA slant and an NA plate while Germination medium (GM) was prepared beforehand.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Staining of the endospores using the Shaeffer-Fulton method involved two separate methods: a steam method, and a cold method.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The germination of endospores was done by overlaying 10mL GM onto an unknown bacteria NA slant and dislodging the growing bacteria. The suspension was put into a drum vial and an additional 10mL of GM was added in. Serial dilution was done and the resulting diluted samples were pour plated onto NA plates and counted after growth.</p>
+
+
+
+<p><em>Oxygen Requirement</em></p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The determination of oxygen requirement needed unknowns grown in Fluid Thioglycollate Medium and NA slants.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The unknown bacteria were inoculated onto recently FTM while the medium was still molten at around 45 degrees Celsius. The bacteria were stabbed onto the media using a wire needle and mixed gently, avoiding aeration of the medium.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The unknowns grown on the NA slant were used on the catalase test, and the oxidase test.</p>
+
+
+
+<p><em>Growth factor and temperature requirements</em></p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The unknown bacterial samples were grown in Growth Factor Test Media A and B and observed for growth.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The unknown was also grown in NA and incubated at varying temperatures at 10 degrees, 30 degrees, 45 degrees, and 60 degrees Celsius for 2-5 days and observed.</p>
+
+
+
+<p><em>Metabolism of carbohydrates and organic acids</em></p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O/F test, Methyl Red test, Vogues-Proskauer test was done on the unknown samples. Citric acid utilization on Simmon’s Citrate Agar, Malonate utilization, starch hydrolysis, and the production of 2-ketogluconate were also tested.</p>
+
+
+
+<p><em>Decomposition of large molecules</em></p>
+
+
+
+<p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em>The tests on decomposition of large molecules is done in three parts. The first test is for the decomposition of gelatin, where the unknowns are inoculated onto nutrient gelatin and observed for the solidification of gelatin after incubation of about 48-72 hours.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lipolytic activity is tested using Sierra’s medium with Tween80 (ST). The unknown is streaked onto ST and incubated for 48-72 hours.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Litmus milk (LM) is used for testing the degradation of lactose. The unknown is inoculated onto LM tubes, incubated at 33 degrees for 24-48 hours.</p>
+
+
+
+<p><em>Nitrogen and sulfur metabolism</em></p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The unknown bacteria were tested for the utilization of organic and inorganic nitrogen by streaking it onto Nitrogen Media A and B (NMA and NMB) Growth was then observed and noted after incubation.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Urea hydrolysis was tested by inoculating the unknown heavily onto Urea broth until turbid. The broths were then incubated for 4-6 hours and observed.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Indole test was performed by adding 2 drops of Kovac’s reagent onto unknowns grown on Tryptone broth (TB).</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phenylalanine decarboxylation was tested on the unknown by inoculating it onto Lysine decarboxylase broth (LDB) and observing for changes in color.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nitrate reduction was test by inoculating the unknown onto Nutrient broth+0.1%KNO<sub>3 </sub>with a Durham tube. And observing for signs of gas production after incubation. Addition of nitrate reagent A and B was also done.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hydrogen Sulfide production was also tested by stabbing the Lead Acetate Agar (LAA) and streaking the surface of the same slant. Observation followed after incubation at 30 degrees Celsius for 48 hours.</p>
+
+
+
+<p><strong>Results and Discussion</strong></p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><em>Culture characteristics</em></td><td>&nbsp;</td></tr><tr><td><em>Colony shape</em></td><td>Round</td></tr><tr><td><em>Elevation</em></td><td>Convex</td></tr><tr><td><em>Margin</em></td><td>Entire</td></tr><tr><td><em>Growth patterns</em></td><td>Effuse</td></tr><tr><td><em>Pellicle formation</em></td><td>Ring</td></tr></tbody></table></figure>
+
+
+
+<p>Table 1. Culture characteristics of the unknown bacteria.</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><em>Morphology</em></td><td>&nbsp;</td></tr><tr><td><em>Cell wall</em></td><td>Gram-positive</td></tr><tr><td><em>Capsule</em></td><td>Non-capsulated</td></tr><tr><td><em>Flagella</em></td><td>Nonmotile</td></tr><tr><td><em>Storage granules</em></td><td>&#8212;</td></tr><tr><td><em>Endospore</em></td><td>None</td></tr></tbody></table></figure>
+
+
+
+<p>Table 2. Morphological characteristics of the unknown bacteria.</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><strong><em>Tests</em></strong></td><td><strong>&nbsp;</strong></td></tr><tr><td><em>Oxidase</em></td><td>Negative</td></tr><tr><td><em>Catalase</em></td><td>Positive</td></tr><tr><td><em>O/F</em></td><td>Fermentative</td></tr><tr><td><em>Methyl Red</em></td><td>Positive</td></tr><tr><td><em>Vogues-Proskauer</em></td><td>Positive</td></tr><tr><td><em>Citrate utilization</em></td><td>Positive</td></tr><tr><td><em>Malonate utilization</em></td><td>Negative</td></tr><tr><td><em>Starch hydrolysis</em></td><td>Negative</td></tr><tr><td><em>Gelatin hydrolysis</em></td><td>Positive</td></tr><tr><td><em>Lipolytic Activity</em></td><td>Negative</td></tr><tr><td><em>Litmus Milk</em></td><td>&#8212;</td></tr><tr><td><em>I/O nitrogen</em></td><td>&#8212;</td></tr><tr><td><em>Urea Hydrolysis</em></td><td>&#8212;</td></tr><tr><td><em>Indole Test</em></td><td>Negative</td></tr><tr><td><em>Phenylalanine decarb</em></td><td>Negative</td></tr><tr><td><em>Nitrate Reduction</em></td><td>Positive</td></tr><tr><td><em>Hydrogen Sulfide prod</em></td><td>Negative</td></tr></tbody></table></figure>
+
+
+
+<p>Table 3. Metabolic tests and their results on the unknown bacteria</p>
+
+
+
+<p>The results of the tests were compared to existing records. The first characteristic of the unknown is its coccus shape and its gram positive property. The shape alone narrows the species down very well since the clustering of the cocci comes next into their identification. Since the observed clusters of cells were grape-like, other species were ruled out temporarily. Chain-like clusters are linked to <em>Streptococcus</em>, pairs are associated with <em>Neisseria</em> and tetrads are associated with <em>Micrococcus</em> (Adams &amp; Moss, 2008). The suspected identity of the unknown based on visual analysis, leads to <em>Staphylococcus</em>.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other notable characteristics is its non-motility, given than it has no flagella. The cells are also non-capsulated and has no noticeable endospore.</p>
+
+
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The metabolic tests can be used to further descend down the hierarchy of taxonomy. Among the species of the <em>Staphylococci</em> genus, <em>Staphylococcus epidermis</em> was ruled out because it cannot hydrolyze gelatin while the unknown bacteria can. The results greatly point to the identity of the unknown to be <em>Staphylococcus aureus</em>.</p>
+
+
+
+<h1>References</h1>
+
+
+
+<p>Adams, M. R., &amp; Moss, M. O. (2008). <em>Food Microbiology.</em> Cambridge: The Royal Society of Chemistry.</p>
+
+
+
+<p>Borsodi, A. K., Toth, E. M., Felfoldi, T., Vajna, B., Sipos, R., &amp; Marialigeti, K. (2013). <em>Practical Microbiology.</em> Budapest: Department of Microbiology, Institute of Biology,Faculty of Science, Eötvös Loránd University.</p>
+
+
+
+<p>Clarke, P. H., &amp; Cowan, S. T. (1951). <em>Biochemical Methods for Bacteriology.</em> London: National Collection of Type Cultures.</p>
+
+
+
+<p>Sandle, T. (2004). Gram’s Stain: History and Explanation of the Fundamental Technique of Determinative Bacteriology. <em>IST Science and Technology Journal</em>, 3-4.</p>
+
+
+
+<p>Steel, K. J. (1965). Microbial Identification. <em>Journal of General Microbiology</em>, 143-148.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Terminal Restriction Fragment Length Polymorphism (TRFLP): A Culture-Independent Method of Microbial Identification</title>
+		<link>/trflp/</link>
+		
+		<dc:creator><![CDATA[jeffuntalan]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 00:33:43 +0000</pubDate>
+				<category><![CDATA[Scientific Paper]]></category>
+		<category><![CDATA[Undergraduate Paper]]></category>
+		<guid isPermaLink="false">/?p=120</guid>
+
+					<description><![CDATA[Literature Review Terminal Restriction Fragment Length Polymorphism (TRFLP or T-RFLP) analysis is a culture-independent method (CIM) of microbial identification commonly employed in areas with complex microbial communities such as soil, activated sludge systems, and even in inside the human body. Culture-independent techniques are particularly useful in cases where the desired bacterial species are unculturable or [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Literature Review</strong></p>
+
+
+
+<p>Terminal Restriction Fragment Length Polymorphism (TRFLP or T-RFLP) analysis is a culture-independent method (CIM) of microbial identification commonly employed in areas with complex microbial communities such as soil, activated sludge systems, and even in inside the human body. Culture-independent techniques are particularly useful in cases where the desired bacterial species are unculturable or very difficult to grow in the laboratory such as the bacterial samples present in soil samples and about 50% of &nbsp;bacteria that are found in the human colon (Ream et al., 2013). TRFLP is PCR-based, and it utilizes variations on the 16S rRNA to “fingerprint” entire microbial communities within their environments, allowing for non-culturable species to be profiled (Su et al., 2012). &nbsp;</p>
+
+
+
+<p>The TRFLP assay can be outlined in four major steps: (1) sample collection and DNA extraction, (2) PCR amplification with fluorescent primers and addition of restriction enzymes, (3) separation and detection of digested products, (4) data analysis, and clustering analysis of the microbial profiles from previously analyzed data. An in-depth explanation of each step will be provided in the next section.</p>
+
+
+
+<p><strong>The TRFLP Procedure</strong></p>
+
+
+
+<p>The principle of TRFLP lies in the primers used during the (PCR) amplification stage. A pair of primers are used, and one of them is fluorescently labeled.&nbsp; The amplicons are then digested with restriction enzymes that yields terminal restriction fragments (TRFs) with fluorescent labels. The TRFs are denatured, and their single strand DNAs are separated using and electrophoresis platform. The fluorescent primers allow for the laser detection of the TRFs and its estimation via automated data analysis software such as <em>GeneMapper </em>(<em>T-RFLP &#8211; BioMineWiki</em>, n.d.). A basic illustration of the procedure can be found below.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="382" height="274" src="/wp-content/uploads/2021/08/TRFLP-Procedure-1.png" alt="" class="wp-image-122" srcset="/wp-content/uploads/2021/08/TRFLP-Procedure-1.png 382w, /wp-content/uploads/2021/08/TRFLP-Procedure-1-300x215.png 300w" sizes="(max-width: 382px) 100vw, 382px" /><figcaption><em>Figure 1 Illustrated steps of the TRFLP assay from Microbial Diversity in the Genomic Era (2018)</em></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p><em>Sample Collection, DNA Extraction</em></p>
+
+
+
+<p>The first step in the TRFLP assay is the collection of samples. The environment where bacteria of interest grow will give a general idea of what known species are present, their properties, and in what conditions unknown species living in the same area might grow in. The property of the sample is also indicative of what DNA extraction method to use. Soil samples, for example, can be extracted using direct lysis while probiotics can be extracted using the phenol-chloroform method (Tien et al., 1999). Although TRFLP is useful for its culture-independence, it falls prey to certain representational biases brought by DNA extraction. DNA extraction methods that work with one species may not work well with another and as a result, some bacterial communities may get overrepresented while others may be underrepresented or even completely overlooked. Culture-based approaches also fall prey to this bias to a certain degree, since only bacterial samples whose growing conditions are understood can be cultured. However, culture-based approaches can provide very sensitive detection since single cells can be distinguished. In ecological studies however, CIMs are better alternatives to culture-based approaches (Ream et al., 2013).</p>
+
+
+
+<p><em>PCR Amplification with fluorescent primers, and addition of restriction enzymes</em></p>
+
+
+
+<p>After the DNA extraction of the desired population of bacteria, the next step would be to amplify the targeted genes via PCR. A pair of Oligonucleotide primers, which can be scouted for using services such as BLAST and FunGene, is used to flank the desired region of DNA to be replicated. One of the primers is labelled at the 5’ terminus end with a fluorescent dye to facilitate easier reading (Osborne, 2014). One drawback of utilizing PCR is its inherent bias to amplify already dominant groups in the population. This is because dominant groups tend to have a higher chance of pickup up the primers and getting amplified (Stres, 2006). However, according to Kent and Triplett (2002) the presence or absence of a fragment in the reading is not a determinant of the presence or absence of a population from a sample, but is instead&nbsp; interpreted as degree of detection of the fragment.</p>
+
+
+
+<p>The PCR conditions and primer selection can be optimized depending on the projected populations that may be present in the area of sample collection to further increase yield.</p>
+
+
+
+<p>After PCR, the removal of any unincorporated primers, dNTPs, and buffer must be done to purify the amplicons prior to the addition of endonuclease restriction enzymes. The amplicons will then be digested with restriction endonucleases to reduce them to the desired length. This will yield fragments that do not have the labeled primer, which will not be detected (Ream et al., 2013). Electrophoresis in the next step will confirm that the amplicons now have the desired length.</p>
+
+
+
+<p><em>Separation of digested products and detection using electrophoresis.</em></p>
+
+
+
+<p>The amplicon mixture at this stage is composed of labeled and unlabeled fragments which can be separated via capillary electrophoresis (CE) or PAGE. During electrophoresis, fragments without the fluorescent tag can still be visualized as bars as in the case of gel electrophoresis. The resulting data can be read by a fluorescence detector as a series of peaks.</p>
+
+
+
+<p>Capillary electrophoresis is more commonly used than gel electrophoresis (Ercolini &amp; Cocolin, 2014). CE is preferred due to its higher sensitivity and resolution, but this comes at a cost: CE requires and expensive machine and matching software to properly utilize it. In resource-scarce areas however, gel electrophoresis will suffice (Gupta et al., 2010).</p>
+
+
+
+<p><em>Data Analysis</em></p>
+
+
+
+<p>Only fragments with a fluorescent tag will be picked up by a fluorescence detector and any untagged fragments will be ignored. The resulting data is a series of peaks that denote the detected fragments which can be interpreted as individual species from the study site. In the early days of TRFLP, much of data analysis relied on visual inspection of peaks. Samples with a large amount of noise (negligible peaks that may appear in the data) can be tricky to analyze and the misjudgment of which can lead to further difficulties in analysis (Prakash et al., 2014). Further steps in refining the TRFLP data can be done through the assignment of a peak detection threshold (PDT), alignment of fragments, and applying normalization procedures to the data.</p>
+
+
+
+<p>A peak detection threshold works like a noise filter, since it ignores value that fall below the threshold and allows values that exceed it to manifest. However, care must be observed when placing this value as a too low value may cause the overestimation of diversity in the sample while a high threshold may result in an underestimation of diversity and even the exclusion of trace species of microorganisms.</p>
+
+
+
+<p>Alignment refers to the grouping of similar or closely sized fragments. The alignment of fragments is done to provide a baseline of similarity between two or more fragment profiles which normally comes from replicates of the sample area. Fragment sizes are normally decimals and are converted into integers at the first stage of alignment. They are then “binned” into the integers they are closest to by a pre-defined value.</p>
+
+
+
+<p>Normalization, sometimes referred to as standardization, is done to remove any differences that in the fragment profiles which stems from the differences of the number of nucleic acids that were loaded into the gel. This is an important step as variances in the numbers of DNA/RNA can be hard to avoid when working with very small volumes. Normalization can be done by assessing the height and width of the peaks that are generated when the fluorescent primers attached to the fragments are scanned and digitized.</p>
+
+
+
+<p>Analysis of data can be done through software such as Applied Biosystems’ <em>GeneMapper </em>or <em>GeneScan</em>. Online tools are also present, such as <em>T-RFLP Expedited </em>(T-REX) which is free, only requires access to the website and will soon be open source (Culman et al., 2009). Software such as these help to filter out the noise and the alignment of peaks which have the same length.</p>
+
+
+
+<p><strong>Weaknesses of TRFLP</strong></p>
+
+
+
+<p>TRFLP, as previously mentioned, falls prey to biases involving DNA extraction and PCR. These biases affect similar methods that rely on DNA extraction and PCR and is not solely found in TRFLP. The choice of restriction enzymes also imparts bias to the TRFLP analysis. An unoptimized restriction enzyme can provide a high variability of species and diversity to samples which can lead to a misrepresentation of dominant species in an area (Ghosh &amp; Bhadury, 2018).</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="448" height="332" src="/wp-content/uploads/2021/08/TRFLP.png" alt="" class="wp-image-123" srcset="/wp-content/uploads/2021/08/TRFLP.png 448w, /wp-content/uploads/2021/08/TRFLP-300x222.png 300w" sizes="(max-width: 448px) 100vw, 448px" /><figcaption><em>Figure 2 Sample TRFLP peaks from Vajna (2012). The data shows five parallel chromatograms from a TRFLP assay. The peaks on the left depict smaller fragments while the peaks on the right depict longer fragments. Notice how their length affects their peak height and peak width.</em></figcaption></figure>
+
+
+
+<p>While the method of TRFLP is well-established, there is still no universal way to analyze data. Choices in data analysis affect TRLFP data can have a big effect on the accuracy of the output. TRFLP data is read is interpreted through a series of peaks which indicate the present species but relying on peaks alone can be unfavorable for lengthy fragments because long fragments travel for longer times in electrophoresis due to their higher molecular weight. This is observed as low and wide peaks in the data which can be underestimated if species abundance is based on peak height. Using peak widths can also be considered when analyzing data, but is has been shown that species abundance can also be influenced when using peak widths if the peaks overlap with one another due to their low and wide profiles (Fredriksson et al., 2014).</p>
+
+
+
+<p>Reproducibility can be improved, however, by employing certain novel methods. Fredriksson et al. (2014) has shown that increasing the detection threshold (PDT) paired with preferring peak heights during normalization can lead to more consistent results.</p>
+
+
+
+<p><strong>Advantages of TRFLP</strong></p>
+
+
+
+<p>Despite the slew of factors that may affect TRFLP’s output, it remains a very versatile tool when done correctly. It provides a rapid solution with a very high throughput that is not limited to a single group of organisms (Prakash et al., 2014). It can be used for any microorganism that contains sufficient genetic material to be tagged, from a wide range of environments.</p>
+
+
+
+<p>In terms of cost, TRFLP requires a minimal amount of resources as it requires apparatuses that are not specialized and ubiquitous in most molecular biology labs. In terms of software, free tools can be found online aside from other paid options. This allows TRFLP to be conducted by on a relatively low budget.</p>
+
+
+
+<p><strong>References:</strong></p>
+
+
+
+<p>Culman, S. W., Bukowski, R., Gauch, H. G., Cadillo-Quiroz, H., &amp; Buckley, D. . (2009). <em>T-REX: Software for the analysis of T-RFLP data</em>. BMC Bioinformatics. http://trex.biohpc.org/</p>
+
+
+
+<p>Ercolini, D., &amp; Cocolin, L. (2014). Identification Methods: Culture-Independent Techniques. In <em>Encyclopedia of Food Microbiology: Second Edition</em> (pp. 259–266). Elsevier Inc. https://doi.org/10.1016/B978-0-12-384730-0.00438-9</p>
+
+
+
+<p>Fredriksson, N. J., Hermansson, M., &amp; Wilén, B. M. (2014). Impact of T-RFLP data analysis choices on assessments of microbial community structure and dynamics. <em>BMC Bioinformatics</em>, <em>15</em>(1), 1–18. https://doi.org/10.1186/s12859-014-0360-8</p>
+
+
+
+<p>Ghosh, A., &amp; Bhadury, P. (2018). Methods of Assessment of Microbial Diversity in Natural Environments. In <em>Microbial Diversity in the Genomic Era</em> (pp. 3–14). Elsevier. https://doi.org/10.1016/B978-0-12-814849-5.00001-0</p>
+
+
+
+<p>Gupta, V., Dorsey, G., Hubbard, A. E., Rosenthal, P. J., &amp; Greenhouse, B. (2010). Gel versus capillary electrophoresis genotyping for categorizing treatment outcomes in two anti-malarial trials in Uganda. <em>Malaria Journal</em>, <em>9</em>(1), 19. https://doi.org/10.1186/1475-2875-9-19</p>
+
+
+
+<p>Kent, A. D., &amp; Triplett, E. W. (2002). Microbial communities and their interactions in soil and rhizosphere ecosystems. In <em>Annual Review of Microbiology</em> (Vol. 56, pp. 211–236). Annu Rev Microbiol. https://doi.org/10.1146/annurev.micro.56.012302.161120</p>
+
+
+
+<p>Osborne, C. A. (2014). Terminal restriction fragment length polymorphism (T-RFLP) Profiling of bacterial 16s rRNA Genes. <em>Methods in Molecular Biology</em>, <em>1096</em>, 57–69. https://doi.org/10.1007/978-1-62703-712-9_5</p>
+
+
+
+<p>Panigrahi, S., Velraj, P., &amp; Subba Rao, T. (2018). Functional Microbial Diversity in Contaminated Environment and Application in Bioremediation. In <em>Microbial Diversity in the Genomic Era</em> (pp. 359–385). Elsevier. https://doi.org/10.1016/B978-0-12-814849-5.00021-6</p>
+
+
+
+<p>Prakash, O., Pandey, P. K., Kulkarni, G. J., Mahale, K. N., &amp; Shouche, Y. S. (2014). Technicalities and Glitches of Terminal Restriction Fragment Length Polymorphism (T-RFLP). In <em>Indian Journal of Microbiology</em> (Vol. 54, Issue 3, pp. 255–261). Springer India. https://doi.org/10.1007/s12088-014-0461-0</p>
+
+
+
+<p>Ream, W., Geller, B., Trempy, J., &amp; Field, K. (2013). Terminal Restriction Fragment Length Polymorphism Analysis of 16S Ribosomal RNA Genes from Uncultured Bacterial Communities. In <em>Molecular Microbiology Laboratory</em> (pp. 71–102). Elsevier. https://doi.org/10.1016/b978-0-12-397044-2.00004-x</p>
+
+
+
+<p>Stres, B. (2006). THE FIRST DECADE OF TERMINAL RESTRICTION FRAGMENT LENGTH POLYMORPHISM (T-RFLP) IN MICROBIAL ECOLOGY. In <em>Acta agriculturae Slovenica</em> (Vol. 88). http://aas.bf.uni-lj.si/</p>
+
+
+
+<p>Su, C., Lei, L., Duan, Y., Zhang, K. Q., &amp; Yang, J. (2012). Culture-independent methods for studying environmental microorganisms: Methods, application, and perspective. In <em>Applied Microbiology and Biotechnology</em> (Vol. 93, Issue 3, pp. 993–1003). Appl Microbiol Biotechnol. https://doi.org/10.1007/s00253-011-3800-7</p>
+
+
+
+<p><em>T-RFLP &#8211; BioMineWiki</em>. (n.d.). Retrieved May 9, 2021, from http://wiki.biomine.skelleftea.se/wiki/index.php/T-RFLP</p>
+
+
+
+<p>Tien, C. C., Chao, C. C., &amp; Chao, W. L. (1999). Methods for DNA extraction from various soils: A comparison. <em>Journal of Applied Microbiology</em>, <em>86</em>(6), 937–943. https://doi.org/10.1046/j.1365-2672.1999.00775.x</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Methods in Detecting and Characterizing SARS-CoV-2 (COVID-19)</title>
+		<link>/sars-cov-2-detection/</link>
+		
+		<dc:creator><![CDATA[jeffuntalan]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 00:09:11 +0000</pubDate>
+				<category><![CDATA[Scientific Paper]]></category>
+		<category><![CDATA[Undergraduate Paper]]></category>
+		<guid isPermaLink="false">/?p=114</guid>
+
+					<description><![CDATA[Introduction The severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is the cause of the most recent public health challenge in the world: the COVID-19 pandemic. The World Health Organization (WHO) declared that it was a pandemic last March 11, 2020 due to the haste and magnitude of its spread, which started as an epidemic in the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<h3>Introduction</h3>
+
+
+
+<p>The severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is the cause of the most recent public health challenge in the world: the COVID-19 pandemic. The World Health Organization (WHO) declared that it was a pandemic last March 11, 2020 due to the haste and magnitude of its spread, which started as an epidemic in the city of Wuhan in the Hubei province of China (dos Santos, 2020). The virus was traced back to the Huanan South China Seafood Market, where it was hypothesized to have evolved from another coronavirus from bats.</p>
+
+
+
+<p>The pandemic has caused a significant change in the way people live and interact with one another. Public places like restaurants, schools, and stores where people used to aggregate were advised against, leaving establishments to either shift to an online platform or close shop. An increased reliance on the internet and online communication platforms was also an effect of the pandemic. Aside from social changes and economic, a lot of people were also infected with the virus, and the complications that came with it.</p>
+
+
+
+<p>While we as citizens contribute to the pandemic’s end by keeping within our homes and limiting contact with other people, our medical professionals and laboratory personnel are in close quarters with the virus—detecting, isolating, and purging it to learn more about the virus and end the pandemic.</p>
+
+
+
+<p>At present, multiple vaccines developed by different companies are being deployed among the population. Although vaccines provide a definite barrier of protection by preparing our immune system in combating the virus, careful detection and isolation remains one of the key steps in preventing more infections from taking place.</p>
+
+
+
+<p></p>
+
+
+
+<h3>The importance of studying SARS-CoV-2 </h3>
+
+
+
+<p>At the time of writing there are currently 8 developed vaccines for use in achieving herd immunity. Prior to the development of the vaccines, the primary strategy for coping with the spread of SARS-CoV-2 was through rigorous testing and refraining from physical contact. The world was just learning about the disease at that time, and scientists were bent on understanding the virus.</p>
+
+
+
+<p>Public knowledge of the disease is important not only because it keeps the people informed of the ongoing pandemic, but also because understanding the concepts surrounding a subject have been proven to illicit protective behaviors from individuals (Miller et al., 2021). For example, having prior knowledge of a disease have been shown to increase handwashing behaviors, which helps in limiting the spread of disease. Of course, developing these behaviors first requires the acknowledgment of the threat of SARS-CoV-2, contrary to the behavior of some activists against wearing masks (such as those in the US).</p>
+
+
+
+<h3>SARS-CoV-2 Detection methods </h3>
+
+
+
+<p>During the time when the vaccine was still being developed, it is accepted that the most effective way to control the spread of the virus is by detecting it early (Pokhrel et al., 2020).</p>
+
+
+
+<p><em><strong>Tests for Current Infection</strong></em></p>
+
+
+
+<p>SARS-CoV-2 can be detected by two methods in use today. The first is through viral and antigen tests, while the second is through antibody tests. Viral tests and antigen tests are classified as tests for current infections by the CDC (2021a) since they test for the presence of a viral infection within the body. Viral tests are known as nucleic acid amplification tests (NAATs) since they multiply suspected viral DNA first to better test for the disease. This amplification is done through something like polymerase chain reaction or PCR, transcription mediated amplification (TMA), or helicase-dependent amplification to name a few. Amplification of viral nucleic acids allow for the efficient use of very tiny amounts of obtained sample.</p>
+
+
+
+<p>On the other hand, antigen tests look for the presence of a specific viral antigen and not the actual presence of viral nuclei acid. Antigen tests are also very fast and inexpensive, giving them the title of “rapid test”. However, being cheap and fast has its drawbacks. According to the FDA (2020), “Positive results from antigen tests are highly accurate, but there is a higher chance of false negatives, so negative results do not rule out infection.”. Antigen tests utilize mucus samples from the back of the throat whilst NAATs require a nasopharyngeal swab that requires a long swab to be inserted into the nostril to obtain sample from deep inside the nasal cavity.</p>
+
+
+
+<p><em><strong>Test for Past Infection</strong></em></p>
+
+
+
+<p>Now that the two primary tests for current infections are introduced, there also exists a test for confirming past infections. Confirming previous infections can provide good insight in how and where the disease may have spread. These kinds of tests are called serology tests or antibody tests.</p>
+
+
+
+<p>Antibody tests require a small amount of blood to be obtained from a patient. This blood will be tested for the presence of antibodies that the body has created to combat SARS-CoV-2. Because the body typically produces antibodies 1-3 weeks after infection (CDC, 2021b), applying antibody tests to anything but testing for past infections will yield erroneous results. Vaccines may also trigger antibody tests, resulting in a false positive.</p>
+
+
+
+<p><em><strong>Self-Tests</strong></em></p>
+
+
+
+<p>A lesser-known testing protocol involves using a self-collection kit or a “self-test”. Self-tests are basically antigen tests that can be administered on oneself, thus reducing the risk of infection by preventing the individual from going out and exposing oneself (Government of Netherlands, n.d.).</p>
+
+
+
+<p><em><strong>Advantages and Disadvantages of each test</strong></em></p>
+
+
+
+<p>NAATs are by far the most reliable way to determine if one has been infected by SARS-CoV-2. They have the highest reliability among the existing SARS-CoV-2 tests, but it also costs the most. Also, albeit the high reliability that NAATs have, they are still not 100% accurate since it can also yield false-negatives or false-negatives due to the variable distribution of the SARS-CoV-2 in the bodies of those infected. It has been proven that the sputum, followed by nasal swabs, yields accurate results. NAATs can also take a significant amount of time to process, more than any other test (Kameswari. S M.P. Brundha, 2020).</p>
+
+
+
+<p>Antigen tests have the primary advantage of being cheap and fast, with test results coming out in a span of two minutes to two hours. Accuracy, however, can be less than that of NAATs (Service, 2020). Antigen tests are usually paired with NAATs especially if the result of the antigen test was negative, but the patient is showing symptoms.</p>
+
+
+
+<p>Antibody tests or Serological tests as previously mentioned, is used to determine past infections. It is not as costly as NAATs, and the results also arrive quickly, which are some of its advantages. Another thing to note is that antibody tests can be used to determine who are eligible for donating blood containing convalescent plasma (Sidiq et al., 2020).</p>
+
+
+
+<h3>The Importance of Testing </h3>
+
+
+
+<p>Testing is not simply about knowing who got infected and who didn’t, because it tells us a lot of information about the state of the pandemic. It is through testing that we can find out which areas of a country have higher cases and needs prompt action to contain the spread. Testing also provides a clear overview of how many active cases there are, thus providing information on the fore coming demand for hospitals and medical supplies such as oxygen. This would also help us prevent going over “the curve”, thus exceeding the maximum occupancy of hospitals which can lead to deaths.</p>
+
+
+
+<p>Every person can help end the pandemic by observing proper protocols which are put in place to prevent the further spread of the virus. While it has been a challenging time for all of us, we can help by doing our part and getting tested, informing others, and staying informed.</p>
+
+
+
+<h3>References </h3>
+
+
+
+<p>CDC. (2021a, May 4). <em>Test for Current Infection</em>. https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html</p>
+
+
+
+<p>CDC. (2021b, July 15). <em>Test for Past Infection</em>. https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html</p>
+
+
+
+<p>dos Santos, W. G. (2020). Natural history of COVID-19 and current knowledge on treatment therapeutic options. In <em>Biomedicine and Pharmacotherapy</em> (Vol. 129, p. 110493). Elsevier Masson SAS. https://doi.org/10.1016/j.biopha.2020.110493</p>
+
+
+
+<p>Government of Netherlands. (n.d.). <em>Coronavirus self-tests</em>. Retrieved August 4, 2021, from https://www.government.nl/topics/coronavirus-covid-19/coronavirus-test/coronavirus-self-tests</p>
+
+
+
+<p>Kameswari. S M.P. Brundha, D. E. (2020). ADVANTAGES AND DISADVANTAGES OF RT- PCR IN COVID 19. <em>European Journal of Molecular &amp;amp; Clinical Medicine</em>, <em>7</em>(1), 1174–1181. https://ejmcm.com/article_2284.html</p>
+
+
+
+<p>Miller, L. M. S., Gee, P. M., &amp; Katz, R. A. (2021). The Importance of Understanding COVID-19: The Role of Knowledge in Promoting Adherence to Protective Behaviors. <em>Frontiers in Public Health</em>, <em>0</em>, 303. https://doi.org/10.3389/FPUBH.2021.581497</p>
+
+
+
+<p>Pokhrel, P., Hu, C., &amp; Mao, H. (2020). Detecting the coronavirus (CoVID-19). In <em>ACS Sensors</em> (Vol. 5, Issue 8, pp. 2283–2297). American Chemical Society. https://doi.org/10.1021/ACSSENSORS.0C01153</p>
+
+
+
+<p>Schive, K. (2020, May). <em>How does the COVID-19 antigen test work?</em> https://medical.mit.edu/covid-19-updates/2020/06/how-does-covid-19-antigen-test-work</p>
+
+
+
+<p>Service, R. (2020). Coronavirus antigen tests: quick and cheap, but too often wrong? <em>Science</em>. https://doi.org/10.1126/SCIENCE.ABC9586</p>
+
+
+
+<p>Sidiq, Z., Hanif, M., Dwivedi, K. K., &amp; Chopra, K. K. (2020). Benefits and limitations of serological assays in COVID-19 infection. <em>Indian Journal of Tuberculosis</em>, <em>67</em>(4), S163–S166. https://doi.org/10.1016/J.IJTB.2020.07.034</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
